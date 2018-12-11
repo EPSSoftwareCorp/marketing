@@ -1,0 +1,26 @@
+{
+    "title": "EPS Marketing",
+    "owner": "EPS Software Corp.",
+    "language": "en-US",
+    "version": "1.0",
+    "settings": {
+      "requireHttps": false,
+      "syntaxTheme": "kavadocsdark"
+    },
+    "topics": [
+      {
+        "title": "Quick Information Sheets",
+        "link": "",
+        "topics": [
+          {
+            "title": "Microsoft Azure QIS",
+            "link": "QIS Azure.md"
+          },
+          {
+            "title": "Vision & Scope QIS",
+            "link": "QIS Vision and Scope.md"
+          }
+        ]
+      }
+    ]
+}
