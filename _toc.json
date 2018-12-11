@@ -14,11 +14,11 @@
         "topics": [
           {
             "title": "Microsoft Azure QIS",
-            "link": "QIS Azure.md"
+            "link": "QIS%20Azure.md"
           },
           {
             "title": "Vision & Scope QIS",
-            "link": "QIS Vision and Scope.md"
+            "link": "QIS%20Vision%20and%20Scope.md"
           }
         ]
       }
