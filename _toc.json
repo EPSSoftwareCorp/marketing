@@ -12,18 +12,14 @@
         "title": "Quick Information Sheets",
         "link": "",
         "topics": [
-            {
-                "title": "Microsoft Azure QIS",
-                "link": "QIS%20Azure.md"
-            },
-            {
-                "title": "Vision & Scope QIS",
-                "link": "QIS%20Vision%20and%20Scope.md"
-            },
-            {
-                "title": "Azure ",
-                "link": "QISAzure.md"
-            },
+          {
+            "title": "Microsoft Azure QIS",
+            "link": "QISAzure.md"
+          },
+          {
+            "title": "Vision & Scope QIS",
+            "link": "QIS%20Vision%20and%20Scope.md"
+          }
         ]
       }
     ]
