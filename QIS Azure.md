@@ -1,8 +1,6 @@
 ![](https://www.codemag.com/Images/Logos/CODEConsulting_Small.png)
 ***
 
-sdfsdfsdfsd
-
 ## Overview
 
 Microsoft Azure is a complete cloud platform designed to host your existing applications, speed up the development of new applications, and enhance existing applications as well. It is a set of cloud services designed to help your organization meet your business challenges. Use it to develop, test, manage, and deploy applications on a massive, global network using your favorite tools and frameworks.
